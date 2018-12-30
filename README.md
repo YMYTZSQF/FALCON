@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="falcon_logo.png" alt="drawing" width="256" />
+</p>
 # FALCON
 
 Citation KNN is a popular but compute-intensive algorithm for multiple instance learning. FALCON is a fast replacement of Citation KNN, which accelerating Citation KNN via removing unnecesary calculations. It achieves speedups of one or two orders of magnitude without changing the results of Citation KNN. For details of FALCON, please refer to the paper "A Fast Drop-In Replacement of Citation KNN for Multiple Instance Learning".
